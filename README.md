@@ -1,4 +1,11 @@
-# miprimerrepositorio
-Primer repositorio de prueba para practicar
+# Hello, I'm Pablo Rosales 👨🏻‍💻 🇺🇸
+### Full-Stack Developer enthusiast 🚀
 
-esto es una prueba
+
+## Technologies Used 🛠️
+
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
+
+
+
+
